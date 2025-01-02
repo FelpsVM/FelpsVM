@@ -1,6 +1,6 @@
 ## Oi, eu sou o Felipe Vieira, entusiasta de programação e tecnologia!
 
-Eu sou um programador iniciante de Python, mas também quero aprender outras linguagens. Tudo o que eu sei devo ao [Curso Em Vídeo](https://www.youtube.com/c/CursoemV%C3%ADdeo).
+Eu sou um programador JS em front-end para sites, mas também quero aprender outras linguagens. Atualmente estou estudando mais a fundo python 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
